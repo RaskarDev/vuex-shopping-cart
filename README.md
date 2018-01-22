@@ -1,10 +1,10 @@
 # shopping-cart-tutorial
 
-> A Vue.js project
+> A Vue.js + Vuex project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
